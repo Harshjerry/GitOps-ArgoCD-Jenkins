@@ -128,6 +128,5 @@ http://<ec2-instance-public-ip>:8080/restart
 The docker agent configuration is now successful.
 ![image alt](https://github.com/Harshjerry/GitOps-ArgoCD-Jenkins/blob/639dc4fcf6e62ee9357d1c67f5ac116171119e80/Screenshot%202025-07-23%20125515.png)
 ![image alt](https://github.com/Harshjerry/GitOps-ArgoCD-Jenkins/blob/639dc4fcf6e62ee9357d1c67f5ac116171119e80/Screenshot%202025-07-23%20104710.png)
-![image alt](https://github.com/Harshjerry/GitOps-ArgoCD-Jenkins/blob/639dc4fcf6e62ee9357d1c67f5ac116171119e80/Screenshot%202025-07-23%20104726.png)
 ![image alt](https://github.com/Harshjerry/GitOps-ArgoCD-Jenkins/blob/2ce163d9f3d0e8c1a5951957f2c4a5523a827ed7/Screenshot%202025-07-23%20104431.png)
 
