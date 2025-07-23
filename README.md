@@ -1,6 +1,5 @@
 # GitOps-ArgoCD-JENKINS
 
-# GitOps-ArgoCD-GithubActions-
 Gitops uses git as single  source of truth  to deliver applications and   infrastructure
 
 GitOps also tck changes too your cluster i.e version  control too
